@@ -15,4 +15,3 @@ This repository contains simple examples showing how to use the post-quantum cry
 ## Requirements
 
 A recent Node.js version with support for ML-KEM and ML-DSA is required.
-"""
